@@ -21,4 +21,4 @@ $ ionic cap sync
 #### Open native application using respective IDEs: Android Studio or xCode
 $ ionic cap open ios
 
-$ ionic cap open andtoid
+$ ionic cap open android
